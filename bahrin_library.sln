@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bahrin_library", "bahrin_library\bahrin_library.csproj", "{DA2B8951-87DD-44A3-88AA-72CA6403E9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA2B8951-87DD-44A3-88AA-72CA6403E9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2B8951-87DD-44A3-88AA-72CA6403E9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2B8951-87DD-44A3-88AA-72CA6403E9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2B8951-87DD-44A3-88AA-72CA6403E9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43757468-D44D-4F6F-8648-88FE832B0F02}
+	EndGlobalSection
+EndGlobal
